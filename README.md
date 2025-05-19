@@ -19,7 +19,7 @@ I created this to help others studying for the exam and to track my own journey 
 
 | [Quizlet-Links.md](./Quizlet-Links.md) | Direct links to all my Quizlet sets I used for review |
 
-| [Professor-Messer-Practice-Notes.md](./Professor-Messer-Practice-Notes.md) | Notes and reflections from taking Professor Messer's free practice tests
+| [Professor-Messer-Practice-Notes.md](./Professor-Messer-Practice-Notes.md) | Notes and reflections from taking Professor Messer's free practice tests |
 
 | [NPower-Program-Summary.md](./NPower-Program-Summary.md) | A brief overview of how NPower’s program helped reinforce key Security+ domains |
 
